@@ -1,0 +1,6 @@
+C:\Users\shote\Desktop\ConsoleApp333\ConsoleApp333\bin\Debug\ConsoleApp333.exe
+C:\Users\shote\Desktop\ConsoleApp333\ConsoleApp333\bin\Debug\ConsoleApp333.pdb
+C:\Users\shote\Desktop\ConsoleApp333\ConsoleApp333\obj\Debug\ConsoleApp333.csprojAssemblyReference.cache
+C:\Users\shote\Desktop\ConsoleApp333\ConsoleApp333\obj\Debug\ConsoleApp333.csproj.CoreCompileInputs.cache
+C:\Users\shote\Desktop\ConsoleApp333\ConsoleApp333\obj\Debug\ConsoleApp333.exe
+C:\Users\shote\Desktop\ConsoleApp333\ConsoleApp333\obj\Debug\ConsoleApp333.pdb
